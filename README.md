@@ -8,6 +8,7 @@
 
 <div align="center">
   <h3>Languages and Tools</h3>
+  <br>
   <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="50" height="50">
@@ -33,7 +34,7 @@
 <hr>
 
 <div align="center">
-  <h3>My Stats</h3>  
+  <h3>My Stats</h3>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=WilverAR&theme=gotham&hide_border=true&border_radius=2&card_width=1000" alt="GitHub Streak"/>
   <hr>
   <img src="https://github-readme-stats.vercel.app/api?username=WilverAR&show_icons=true&theme=merko" alt="GitHub Streak"/>
