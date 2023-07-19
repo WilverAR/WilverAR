@@ -39,5 +39,5 @@
   <hr>
   <img src="https://github-readme-stats.vercel.app/api?username=WilverAR&show_icons=true&theme=merko" alt="GitHub Stats"/>
   <hr>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilverAR&layout=donut" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilverAR&layout=donut&theme=merko" alt="Most Used Languages"/>
 </div>
