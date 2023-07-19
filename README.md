@@ -1,4 +1,5 @@
 <h1 align="center">Hello, I'm Wilver Arana! 👋</h1>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 </div>
@@ -28,3 +29,4 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50">
   </div>
 </div>
+
