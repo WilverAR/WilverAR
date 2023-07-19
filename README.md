@@ -48,12 +48,18 @@
 
 <div align="center">
   <h3>Connect with me</h3>
-  <a src="linkedin.com/in/wilver-arana-r-492a79225" alt="LinkedIn"/>
+  <a href="linkedin.com/in/wilver-arana-r-492a79225" alt="LinkedIn"
+    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="WilverAR's LinkedIn" style="max-width: 100%;">
+  />
   <hr>
-  <a src="https://www.codechef.com/users/wilverar_20" alt="CodeChef"/>
-  <a src="https://codeforces.com/profile/Wilver_A.R." alt="CodeForces"/>
+  <a href="https://www.codechef.com/users/wilverar_20" alt="CodeChef"
+    <img src="https://img.shields.io/badge/CodeChef-%23B92B27?style=for-the-badge&logo=codechef&logoColor=white" alt="WilverAR's CodeChef" style="max-width: 100%;">
+  />
+  <a href="https://codeforces.com/profile/Wilver_A.R." alt="CodeForces"
+    <img src="https://img.shields.io/badge/Codeforces-green?style=for-the-badge&logo=codeforces&logoColor=white" alt="WilverAR's CodeForces" style="max-width: 100%;">
+  />
   <hr>
 </div>
 
+    
 <hr>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-perfil-de-linkedin/)
