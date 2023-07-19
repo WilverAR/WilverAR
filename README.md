@@ -36,20 +36,24 @@
 <div align="center">
   <h3>My Stats</h3>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=WilverAR&theme=gotham&hide_border=true&border_radius=2&card_width=1000" alt="GitHub Streak"/>
+  <!-- 
   <hr>
   <img src="https://github-readme-stats.vercel.app/api?username=WilverAR&show_icons=true&theme=merko" alt="GitHub Stats"/>
   <hr>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilverAR&layout=donut&theme=merko" alt="Most Used Languages"/>
+  -->
 </div>
+
+<hr>
 
 <div align="center">
   <h3>Connect with me</h3>
-  <img src="linkedin.com/in/wilver-arana-r-492a79225" alt="LinkedIn"/>
+  <a src="linkedin.com/in/wilver-arana-r-492a79225" alt="LinkedIn"/>
   <hr>
-  <img src="https://www.codechef.com/users/wilverar_20" alt="CodeChef"/>
-  <img src="https://codeforces.com/profile/Wilver_A.R." alt="CodeForces"/>
+  <a src="https://www.codechef.com/users/wilverar_20" alt="CodeChef"/>
+  <a src="https://codeforces.com/profile/Wilver_A.R." alt="CodeForces"/>
   <hr>
 </div>
 
-<!-- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilverAR&layout=donut&theme=merko" alt="Most Used Languages"/>
--->
+<hr>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-perfil-de-linkedin/)
