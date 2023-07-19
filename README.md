@@ -41,6 +41,15 @@
   <hr>
 </div>
 
+<div align="center">
+  <h3>Connect with me</h3>
+  <img src="linkedin.com/in/wilver-arana-r-492a79225" alt="LinkedIn"/>
+  <hr>
+  <img src="https://www.codechef.com/users/wilverar_20" alt="CodeChef"/>
+  <img src="https://codeforces.com/profile/Wilver_A.R." alt="CodeForces"/>
+  <hr>
+</div>
+
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilverAR&layout=donut&theme=merko" alt="Most Used Languages"/>
 -->
