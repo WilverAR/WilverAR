@@ -34,4 +34,9 @@
   <h3>My Stats</h3>  
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WilverAR&theme=gotham&hide_border=true&border_radius=2&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WilverAR&theme=gotham&hide_border=true&border_radius=2&card_width=500)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=WilverAR&theme=gotham&hide_border=true&border_radius=2&card_width=500" alt="GitHub Streak" />
+  </a>
+</p>
