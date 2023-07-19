@@ -49,6 +49,7 @@
   <img src="https://codeforces.com/profile/Wilver_A.R." alt="CodeForces"/>
   <hr>
 </div>
+![jhos's Discord](https://img.shields.io/badge/jhos%238678-404EED?style=for-the-badge&logo=Discord&logoColor=white)
 
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilverAR&layout=donut&theme=merko" alt="Most Used Languages"/>
