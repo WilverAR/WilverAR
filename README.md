@@ -30,3 +30,9 @@
   </div>
 </div>
 
+<div aling="left">
+  <h3>My Stats</h3>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WilverAR&theme=gotham&hide_border=true&border_radius=2&card_width=500)](https://git.io/streak-stats)
+</div>
+
+
