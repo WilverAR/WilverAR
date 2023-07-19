@@ -1,4 +1,4 @@
-### Hello, I'm Wilver Arana! 👋
+<h1 align="center">Hello, I'm Wilver Arana! 👋</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 </div>
