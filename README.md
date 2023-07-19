@@ -38,5 +38,6 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=WilverAR&theme=gotham&hide_border=true&border_radius=2&card_width=1000" alt="GitHub Streak"/>
   <hr>
   <img src="https://github-readme-stats.vercel.app/api?username=WilverAR&show_icons=true&theme=merko" alt="GitHub Stats"/>
+  <hr>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilverAR&layout=donut&theme=merko" alt="Most Used Languages"/>
 </div>
