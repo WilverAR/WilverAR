@@ -25,5 +25,6 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" title=".Net" alt=".Net" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" title="SpringBoot" alt="SpringBoot" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50">
   </div>
 </div>
