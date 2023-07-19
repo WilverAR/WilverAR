@@ -2,6 +2,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 </div>
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
 <!--
 **WilverAR/WilverAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
