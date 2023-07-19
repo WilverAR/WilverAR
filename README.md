@@ -58,7 +58,6 @@
   <a href="https://codeforces.com/profile/Wilver_A.R." alt="CodeForces">
     <img src="https://img.shields.io/badge/Codeforces-green?style=for-the-badge&logo=codeforces&logoColor=white" alt="WilverAR's CodeForces" style="max-width: 100%;">
   </a>
-  <hr>
 </div>
     
 <hr>
