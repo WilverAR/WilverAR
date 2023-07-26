@@ -9,7 +9,7 @@
 <hr>
 
 <div align="center">
-  <h3>Languages and Tools</h3>
+  <h3>💻 Languages and Tools</h3>
   <br>
   <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="50" height="50">
@@ -30,7 +30,7 @@
 <hr>
 
 <div align="center">
-  <h3>I'm currently learning</h3>
+  <h3>📚 I'm currently learning</h3>
   <br>
   <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="50" height="50">
@@ -46,7 +46,7 @@
 
 
 <div align="center">
-  <h3>My Stats</h3>
+  <h3>📊 My Stats</h3>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=WilverAR&theme=gotham&hide_border=true&border_radius=2&card_width=1000" alt="GitHub Streak"/>
   <!-- 
   <hr>
@@ -59,7 +59,7 @@
 <hr>
 
 <div align="center">
-  <h3>Connect with me</h3>
+  <h3>📫 Connect with me</h3>
   <a href="https://www.codechef.com/users/wilverar_20" alt="CodeChef" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-%23B92B27?style=for-the-badge&logo=codechef&logoColor=white" alt="WilverAR's CodeChef" style="max-width: 100%;">
   </a>
