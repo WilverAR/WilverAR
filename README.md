@@ -24,6 +24,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="C++" alt="C++" width="50" height="50">
   </div>
 </div>
 
