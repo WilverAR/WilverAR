@@ -16,7 +16,6 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="50" height="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" title="Sass" alt="Sass" width="50" height="50">
@@ -26,6 +25,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Figma" alt="Figma" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Dodcker" width="50" height="50">
   </div>
 </div>
 
