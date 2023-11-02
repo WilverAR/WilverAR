@@ -26,6 +26,8 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Figma" alt="Figma" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Dodcker" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" title="Azure" alt="Azure" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="Github" alt="Github" width="50" height="50">
   </div>
 </div>
 
