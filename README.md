@@ -74,6 +74,9 @@
   <a href="https://codeforces.com/profile/Wilver_A.R." alt="CodeForces" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-green?style=for-the-badge&logo=codeforces&logoColor=white" alt="WilverAR's CodeForces" style="max-width: 100%;">
   </a>
+  <a href="https://leetcode.com/WilverAR/" alt="LeetCode" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="WilverAR's LeetCode" style="max-width: 100%;">
+  </a>
 </div>
     
 <hr>
