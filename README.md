@@ -43,6 +43,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" title="SpringBoot" alt="SpringBoot" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="CSharp" alt="CSharp" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" title=".Net" alt=".Net" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" title="Android Studio" alt="Android Studio" width="50" height="50">
   </div>
 </div>
 
