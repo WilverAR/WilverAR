@@ -28,6 +28,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Dodcker" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" title="Azure" alt="Azure" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="Github" alt="Github" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="50" height="50">
   </div>
 </div>
 
@@ -44,6 +45,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="CSharp" alt="CSharp" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" title=".Net" alt=".Net" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" title="Android Studio" alt="Android Studio" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="50" height="50">
   </div>
 </div>
 
