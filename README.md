@@ -76,7 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=WilverAR&show_icons=true&theme=merko" alt="GitHub Stats"/>
   <hr>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilverAR&layout=donut&theme=merko" alt="Most Used Languages"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WilverAR&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WilverAR&layout=compact&langs_count=7&theme=algolia"/>
   
 </div>
 
