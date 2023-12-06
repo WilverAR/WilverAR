@@ -18,6 +18,9 @@
   <h3>💻 Languages and Tools</h3>
   <br>
   <div>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" title="Dart" alt="Dart" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" title="Kotlin" alt="Kotlin" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" title="Firebase" alt="Firebase" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="Intellij IDEA" alt="Intellij IDEA" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="50" height="50">
