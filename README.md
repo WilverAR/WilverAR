@@ -89,7 +89,7 @@
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/Wilver_A.R." alt="CodeForces" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-green?style=for-the-badge&logo=codeforces&logoColor=white" alt="WilverAR's CodeForces" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Codeforces-00FF00?style=for-the-badge&logo=codeforces&logoColor=white" alt="WilverAR's CodeForces" style="max-width: 100%;">
   </a>
   &nbsp;
   <a href="https://leetcode.com/WilverAR/" alt="LeetCode" target="_blank">
