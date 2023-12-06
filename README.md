@@ -83,9 +83,11 @@
   <a href="https://www.codechef.com/users/wilverar_20" alt="CodeChef" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-%23B92B27?style=for-the-badge&logo=codechef&logoColor=white" alt="WilverAR's CodeChef" style="max-width: 100%;">
   </a>
+  <br>
   <a href="https://linkedin.com/in/wilver-arana-r-492a79225" alt="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="WilverAR's LinkedIn" style="max-width: 100%;">
   </a>
+  <hr>
   <a href="https://codeforces.com/profile/Wilver_A.R." alt="CodeForces" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-green?style=for-the-badge&logo=codeforces&logoColor=white" alt="WilverAR's CodeForces" style="max-width: 100%;">
   </a>
