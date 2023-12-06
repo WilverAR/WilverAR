@@ -13,8 +13,8 @@
 </div>
 
 <hr>
-<summary>Tools</summary>
-<div>
+<div align="center">
+  <h3>💻 Languages and Tools</h3>
   <p style="display: inline-block;" align="center">
     <kbd>
       <kbd>Programming Languages</kbd>
