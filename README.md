@@ -18,6 +18,7 @@
   <h3>💻 Languages and Tools</h3>
   <br>
   <div>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" title="Visual Studio" alt="Visual Studio" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" title="Dart" alt="Dart" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" title="Kotlin" alt="Kotlin" width="50" height="50">
