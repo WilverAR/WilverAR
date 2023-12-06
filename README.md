@@ -4,10 +4,11 @@
 -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Semibold&color=F2F2F2&size=20&center=true&vCenter=true&width=500&height=20&lines=Software+Engineering+student+from+Peru+%F0%9F%87%B5%F0%9F%87%AA">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 </p>
 
 <br>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 </div>
