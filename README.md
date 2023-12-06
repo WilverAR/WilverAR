@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Wilver!</h1>
 <h3 align="center">Software Engineering student from Peru 🇵🇪</h3>
-<p align="center" style="font-family: Arial, sans-serif; font-size: 25px; color: #ffffff;">
-    <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&lines=Software+Engineering+student+from+Peru+%F0%9F%87%B5%F0%9F%87%AA">
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&color=ffffff&size=25&lines=Software+Engineering+student+from+Peru+%F0%9F%87%B5%F0%9F%87%AA">
 </p>
 
 
