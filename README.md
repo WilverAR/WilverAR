@@ -43,7 +43,7 @@
 <hr>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <div align="center">
-  <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> I'm currently learning</h3>
+  <h3>📚 I'm currently learning</h3>
   <br>
   <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" title="AngularTS" alt="AngularTS" width="50" height="50">
