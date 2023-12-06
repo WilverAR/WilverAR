@@ -17,7 +17,7 @@
   <h3>💻 Languages and Tools</h3>
   <p style="display: inline-block;" align="center">
     <kbd>
-      <kbd>Programming Languages</kbd>
+      <h5>Programming Languages</h5>
       <br>
       <br>
       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
