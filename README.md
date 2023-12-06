@@ -2,12 +2,10 @@
 <h3 align="center">Software Engineering student from Peru 🇵🇪</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+student+from+Peru+%F0%9F%87%B5%F0%9F%87%AA">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=ffffff&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+student+from+Peru+%F0%9F%87%B5%F0%9F%87%AA">
   </a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Software%20Engineering%20student%20from%20Peru%20%F0%9F%87%B5%F0%9F%87%AA-000000?style=flat-square">
-</p>
+
 
 
 <br>
