@@ -73,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=WilverAR&show_icons=true&theme=merko" alt="GitHub Stats"/>
   -->
   <hr>
-  <img height="500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WilverAR&layout=compact&langs_count=10&theme=merko" alt="Most Used Languages"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WilverAR&layout=compact&langs_count=7&theme=merko" alt="Most Used Languages"/>
 </div>
 
 <hr>
