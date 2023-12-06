@@ -1,13 +1,11 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Wilver!</h1>
 <h3 align="center">Software Engineering student from Peru 🇵🇪</h3>
 <p align="center">
-    <img id="typing-text" src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=ffffff&size=20&center=true&vCenter=true&width=500&height=20&lines=Software+Engineering+student+from+Peru+%F0%9F%87%B5%F0%9F%87%AA">
+    <strong>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=ffffff&size=20&center=true&vCenter=true&width=500&height=20&lines=Software+Engineering+student+from+Peru+%F0%9F%87%B5%F0%9F%87%AA">
+    </strong>
 </p>
-<style>
-    #typing-text {
-        font-weight: bold;
-    }
-</style>
+
 
 
 
