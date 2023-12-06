@@ -43,7 +43,7 @@
 <hr>
 
 <div align="center">
-  <h3>📚 I'm currently learning</h3>
+  <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> I'm currently learning</h3>
   <br>
   <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" title="AngularTS" alt="AngularTS" width="50" height="50">
@@ -60,7 +60,7 @@
 
 <div align="center">
   <h3>📊 My Stats</h3>
-  <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Stats</h3>
+  <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My Stats</h3>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=WilverAR&theme=gotham&hide_border=true&border_radius=2&card_width=1000" alt="GitHub Streak"/>
   <!-- 
   <hr>
