@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Semibold&color=F2F2F2&size=20&center=true&vCenter=true&width=500&height=20&lines=Software+Engineering+student+from+Peru+%F0%9F%87%B5%F0%9F%87%AA">
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Semibold&color=E6E6E6&size=20&center=true&vCenter=true&width=500&height=20&lines=Software+Engineering+student+from+Peru+%F0%9F%87%B5%F0%9F%87%AA">
 </p>
 
