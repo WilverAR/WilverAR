@@ -57,10 +57,9 @@
 
 <hr>
 
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
 <div align="center">
   <h3>📊 My Stats</h3>
-  <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> My Stats</h3>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=WilverAR&theme=gotham&hide_border=true&border_radius=2&card_width=1000" alt="GitHub Streak"/>
   <!-- 
   <hr>
