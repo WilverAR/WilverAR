@@ -18,6 +18,7 @@
   <h3>💻 Languages and Tools</h3>
   <br>
   <div>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="Intellij IDEA" alt="Intellij IDEA" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="CSharp" alt="CSharp" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="50" height="50">
