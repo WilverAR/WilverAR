@@ -2,7 +2,7 @@
 <!--
 <h3 align="center">Software Engineering student from Peru 🇵🇪</h3>
 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Semibold&color=F2F2F2&size=20&center=true&vCenter=true&width=500&height=20&lines=Software+Engineering+student+from+Peru+%F0%9F%87%B5%F0%9F%87%AA">
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Semibold&color=F2F2F2&size=20&center=true&vCenter=true&width=500&height=20&lines=Software+Engineering+student+from+Peru+%F0%9F%87%B5%F0%9F%87%AA">
 
 <br>
 
@@ -39,7 +39,7 @@
 </div>
 
 <hr>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+<!-- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> -->
 <div align="center">
   <h3>📚 I'm currently learning</h3>
   <br>
@@ -55,7 +55,7 @@
 
 <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> -->
 <div align="center">
   <h3>📊 My Stats</h3>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=WilverAR&theme=gotham&hide_border=true&border_radius=2&card_width=1000" alt="GitHub Streak"/>
