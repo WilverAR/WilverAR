@@ -16,7 +16,8 @@
 <div align="center">
   <h3>💻 Languages and Tools</h3>
   <p style="display: inline-block;" align="center">
-    <b><span style="font-size: 24px;">PROGRAMMING LANGUAGES</span></b><br>
+    <div align="center">
+      <b><span style="font-size: 24px;">PROGRAMMING LANGUAGES</span></b><br>
     <kbd>
       <b><span style="font-size: 24px;">PROGRAMMING LANGUAGES</span></b>
       <br>
@@ -26,6 +27,7 @@
       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
     </kbd>
+    </div>
     <kbd>
       <kbd>Back-end</kbd>
       <br>
