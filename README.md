@@ -6,12 +6,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  
-</div>
-
-<br>
 <hr>
 
 <div align="center">
