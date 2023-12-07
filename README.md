@@ -16,6 +16,7 @@
   <h3>💻 Languages and Tools</h3>
   <br>
   <kbd>
+    <br>
       <b>PROGRAMMING LANGUAGES</b>
       <br><br>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="50" height="50">
