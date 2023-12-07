@@ -12,7 +12,9 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 </div>
 
+<br>
 <hr>
+<br>
 
 <div align="center">
   <h3>💻 Languages and Tools</h3>
@@ -90,7 +92,9 @@
   </p>
 </div>
 
+<br>
 <hr>
+<br>
 <!-- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> -->
 <div align="center">
   <h3>📚 I'm currently learning</h3>
@@ -105,7 +109,9 @@
   </div>
 </div>
 
+<br>
 <hr>
+<br>
 
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> -->
 <div align="center">
@@ -119,7 +125,9 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WilverAR&layout=compact&langs_count=7&theme=merko" alt="My Programming Languages" height="200em"/>
 </div>
 
+<br>
 <hr>
+<br>
 
 <div align="center">
   <h3>📫 Connect with me</h3>
