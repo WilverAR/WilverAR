@@ -47,7 +47,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Figma" alt="Figma" width="50" height="50">
   </kbd>
-  &nbsp;
+  <br><br>
   <kbd>
     <br>
     <b>DATABASE</b>
@@ -56,7 +56,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50">
   </kbd>
-  <br><br>
+  &nbsp;
   <kbd>
     <br>
     <b>SYSTEM, NETWORKING & DEPLOYMENT</b>
