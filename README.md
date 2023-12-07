@@ -1,5 +1,6 @@
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Wilver!</h1>
 <div align="center">
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Wilver!</h1>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Semibold&color=F2F2F2&size=20&center=true&vCenter=true&width=500&height=20&lines=Software+Engineering+student+from+Peru+%F0%9F%87%B5%F0%9F%87%AA">
 </div>
 
@@ -128,8 +129,7 @@
   <!-- 
   <hr>
   <img src="https://github-readme-stats.vercel.app/api?username=WilverAR&show_icons=true&theme=merko" alt="GitHub Stats"/>
-  -->
-  
+  -->  
   <hr>
   <br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WilverAR&layout=compact&langs_count=7&theme=merko" alt="My Programming Languages" height="200em"/>
