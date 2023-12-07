@@ -56,6 +56,7 @@
       <br>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="50" height="50">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50">
     </kbd>
     <br><br>
     <kbd>
@@ -67,6 +68,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" title="Azure" alt="Azure" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="50" height="50">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="Amazon Web Services" alt="Amazon Web Services" width="50" height="50">
     </kbd>
     <kbd>
       <b>TOOLS</b>
