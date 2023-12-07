@@ -121,22 +121,6 @@
 <br>
 <hr>
 
-<div align="center">
-  <h3>📚 I'm currently learning</h3>
-  <br>
-  <div>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" title="AngularTS" alt="AngularTS" width="50" height="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" title="VueJS" alt="VueJS" width="50" height="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" title="SpringBoot" alt="SpringBoot" width="50" height="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" title=".Net" alt=".Net" width="50" height="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" title="Android Studio" alt="Android Studio" width="50" height="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="50" height="50">
-  </div>
-</div>
-
-<br>
-<hr>
-
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> -->
 <div align="center">
   <h3>📊 My Stats</h3>
