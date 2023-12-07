@@ -26,7 +26,6 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="50" height="50">
     </kbd>
     &nbsp;
-    &nbsp;
     <kbd>
       <b>BACK-END</b>
       <br>
@@ -35,6 +34,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="CSharp" alt="CSharp" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="50" height="50">
     </kbd>
+    &nbsp;
      <kbd>
       <b>MOBILE</b>
       <br>
@@ -42,6 +42,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" title="Dart" alt="Dart" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" title="Kotlin" alt="Kotlin" width="50" height="50">
     </kbd>
+    &nbsp;
     <kbd>
       <b>FRONT-END</b>
       <br>
@@ -52,6 +53,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Figma" alt="Figma" width="50" height="50">
     </kbd>
+    &nbsp;
     <kbd>
       <b>DATABASE</b>
       <br>
@@ -72,6 +74,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="Amazon Web Services" alt="Amazon Web Services" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="50" height="50">
     </kbd>
+    &nbsp;
     <kbd>
       <b>TOOLS</b>
       <br>
