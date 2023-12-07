@@ -18,54 +18,54 @@
   <h3>💻 Languages and Tools</h3>
   <p style="display: inline-block">
     <kbd>
-      PROGRAMMING LANGUAGES
+      <b>PROGRAMMING LANGUAGES</b>
       <br>
       <br>      
     </kbd>
     <kbd>
-      <kbd>Back-end</kbd>
+      <b>Back-end</b>
       <br>
       <br>      
     </kbd>
      <kbd>
-      <kbd>Mobile</kbd>
+      <b>Mobile</b>
       <br>
       <br>      
     </kbd>
     <kbd>
-      <kbd>Front-end</kbd>
+      <b>Front-end</b>
       <br>
       <br>      
     </kbd>
     <kbd>
-      <kbd>Database</kbd>
+      <b>Database</b>
       <br>
       <br>      
     </kbd>
     <br>
     <br>
     <kbd>
-      <kbd>Data Science & AI</kbd>
+      <b>Data Science & AI</b>
       <br>
       <br>
     </kbd>
     <kbd>
-      <kbd>System, Networking & Deployment</kbd>
+      <b>System, Networking & Deployment</b>
       <br>
       <br>  
     </kbd>
     <kbd>
-      <kbd>Terminal Scripts</kbd>
+      <b>Terminal Scripts</b>
       <br>
       <br>
     </kbd>
     <kbd>
-      <kbd>Tools</kbd>
+      <b>Tools</b>
       <br>
       <br>
     </kbd>
      <kbd>
-      <kbd>Game Development</kbd>
+      <b>Game Development</b>
       <br>
       <br>
     </kbd>
