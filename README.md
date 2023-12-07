@@ -13,7 +13,7 @@
 </div>
 
 <hr>
-
+<!--
 <div align="center">
   <h3>💻 Languages and Tools</h3>
   <p style="display: inline-block">
@@ -97,7 +97,7 @@
     </kbd>
   </p>
 </div>
-
+-->
 <hr>
 
 <div align="center">
