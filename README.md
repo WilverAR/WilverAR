@@ -13,7 +13,7 @@
 </div>
 
 <hr>
-<!--
+
 <div align="center">
   <h3>💻 Languages and Tools</h3>
   <p style="display: inline-block">
@@ -57,13 +57,6 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="50" height="50">
     </kbd>
-    <br>
-    <br>
-    <kbd>
-      <b>DATA SCIENCE & AI</b>
-      <br>
-      <br>
-    </kbd>
     <kbd>
       <b>SYSTEM, NETWORKING & DEPLOYMENT</b>
       <br>
@@ -97,7 +90,7 @@
     </kbd>
   </p>
 </div>
--->
+
 <hr>
 
 <div align="center">
