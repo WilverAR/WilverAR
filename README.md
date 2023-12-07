@@ -13,10 +13,10 @@
 </div>
 
 <hr>
-<div align="center">
+
+<div>
   <h3>💻 Languages and Tools</h3>
   <p style="display: inline-block;" align="center">
-    <div align="center">
       PROGRAMMING LANGUAGES<br>
     <kbd>
       PROGRAMMING LANGUAGES
@@ -65,12 +65,11 @@
       <kbd>Tools</kbd>
       <br>
       <br>
-  </kbd>
+    </kbd>
      <kbd>
       <kbd>Game Development</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
     </kbd>
   </p>
 </div>
