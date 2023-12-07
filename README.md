@@ -8,6 +8,71 @@
 <br>
 <hr>
 
+
+<div align="center" style="text-align: center;">
+  <h3 style="margin-bottom: 10px;">💻 Languages and Tools</h3>
+
+  <kbd style="display: inline-block; margin: 0 10px 10px 0;">
+    <b>PROGRAMMING LANGUAGES</b><br><br>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="50" height="50">
+  </kbd>
+
+  <kbd style="display: inline-block; margin: 0 10px 10px 0;">
+    <b>BACK-END</b><br><br>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="CSharp" alt="CSharp" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="50" height="50">
+  </kbd>
+
+  <kbd style="display: inline-block; margin: 0 10px 10px 0;">
+    <b>MOBILE</b><br><br>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" title="Dart" alt="Dart" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" title="Kotlin" alt="Kotlin" width="50" height="50">
+  </kbd>
+
+  <kbd style="display: inline-block; margin: 0 10px 10px 0;">
+    <b>FRONT-END</b><br><br>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" title="Sass" alt="Sass" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Figma" alt="Figma" width="50" height="50">
+  </kbd>
+
+  <kbd style="display: inline-block; margin: 0 10px 10px 0;">
+    <b>DATABASE</b><br><br>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50">
+  </kbd>
+
+  <br><br>
+
+  <kbd style="display: inline-block; margin: 0 10px 10px 0;">
+    <b>SYSTEM, NETWORKING & DEPLOYMENT</b><br><br>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" title="Firebase" alt="Firebase" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Dodcker" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" title="Azure" alt="Azure" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="Amazon Web Services" alt="Amazon Web Services" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="50" height="50">
+  </kbd>
+
+  <kbd style="display: inline-block; margin: 0 10px 10px 0;">
+    <b>TOOLS</b><br><br>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" title="Visual Studio" alt="Visual Studio" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="Intellij IDEA" alt="Intellij IDEA" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="Github" alt="Github" width="50" height="50">
+  </kbd>
+</div>
+
+
+<!--
 <div align="center">
   <h3>💻 Languages and Tools</h3>
   <br>
@@ -81,7 +146,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="Github" alt="Github" width="50" height="50">
   </kbd>
 </div>
-
+-->
 <br>
 <hr>
 <!-- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> -->
