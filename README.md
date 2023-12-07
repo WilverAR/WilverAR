@@ -41,7 +41,7 @@
   <kbd>
     <br>
     <b>FRONT-END</b>
-    <br><br>
+    <br>&nbsp;<br>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" title="Sass" alt="Sass" width="50" height="50">
