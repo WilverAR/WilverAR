@@ -16,6 +16,7 @@
 
 <div align="center">
   <h3>💻 Languages and Tools</h3>
+  <br>
   <p style="display: inline-block">
     <kbd>
       <b>PROGRAMMING LANGUAGES</b>
