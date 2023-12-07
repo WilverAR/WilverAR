@@ -23,49 +23,49 @@
       <br>      
     </kbd>
     <kbd>
-      <b>Back-end</b>
+      <b>BACK-END</b>
       <br>
       <br>      
     </kbd>
      <kbd>
-      <b>Mobile</b>
+      <b>MOBILE</b>
       <br>
       <br>      
     </kbd>
     <kbd>
-      <b>Front-end</b>
+      <b>FRONT-END</b>
       <br>
       <br>      
     </kbd>
     <kbd>
-      <b>Database</b>
+      <b>DATABASE</b>
       <br>
       <br>      
     </kbd>
     <br>
     <br>
     <kbd>
-      <b>Data Science & AI</b>
+      <b>DATA SCIENCE & AI</b>
       <br>
       <br>
     </kbd>
     <kbd>
-      <b>System, Networking & Deployment</b>
+      <b>SYSTEM, NETWORKING & DEPLOYMENT</b>
       <br>
       <br>  
     </kbd>
     <kbd>
-      <b>Terminal Scripts</b>
+      <b>TERMINAL SCRIPTS</b>
       <br>
       <br>
     </kbd>
     <kbd>
-      <b>Tools</b>
+      <b>TOOLS</b>
       <br>
       <br>
     </kbd>
      <kbd>
-      <b>Game Development</b>
+      <b>GAME DEVELOPMENT</b>
       <br>
       <br>
     </kbd>
