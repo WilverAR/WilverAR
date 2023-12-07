@@ -14,7 +14,6 @@
 <div align="center">
   <h3>💻 Languages and Tools</h3>
   <br>
-  <p style="display: inline-block">
     <kbd>
       <b>PROGRAMMING LANGUAGES</b>
       <br><br>
@@ -77,7 +76,6 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="Github" alt="Github" width="50" height="50">
     </kbd>
-  </p>
 </div>
 
 <br>
