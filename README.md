@@ -19,7 +19,7 @@
     <div align="center">
       PROGRAMMING LANGUAGES<br>
     <kbd>
-      <b><span style="font-size: 24px;">PROGRAMMING LANGUAGES</span></b>
+      PROGRAMMING LANGUAGES
       <br>
       <br>
       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
