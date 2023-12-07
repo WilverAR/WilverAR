@@ -83,11 +83,6 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="Github" alt="Github" width="50" height="50">
     </kbd>
-     <kbd>
-      <b>GAME DEVELOPMENT</b>
-      <br>
-      <br>
-    </kbd>
   </p>
 </div>
 
