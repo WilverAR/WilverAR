@@ -25,6 +25,7 @@
     </kbd>
     &nbsp;
     <kbd>
+      <br>
       <b>BACK-END</b>
       <br><br>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="50" height="50">
@@ -33,6 +34,7 @@
     </kbd>
     &nbsp;
      <kbd>
+       <br>
       <b>MOBILE</b>
       <br><br>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" title="Dart" alt="Dart" width="50" height="50">
@@ -40,6 +42,7 @@
     </kbd>
     &nbsp;
     <kbd>
+      <br>
       <b>FRONT-END</b>
       <br><br>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="50" height="50">
@@ -50,6 +53,7 @@
     </kbd>
     &nbsp;
     <kbd>
+      <br>
       <b>DATABASE</b>
       <br><br>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="50" height="50">
@@ -59,7 +63,7 @@
     <br><br>
     <kbd>
       <b>SYSTEM, NETWORKING & DEPLOYMENT</b>
-      <br><br>
+      <br>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" title="Firebase" alt="Firebase" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Dodcker" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" title="Azure" alt="Azure" width="50" height="50">
@@ -70,7 +74,7 @@
     &nbsp;
     <kbd>
       <b>TOOLS</b>
-      <br><br>
+      <br>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" title="Visual Studio" alt="Visual Studio" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="Intellij IDEA" alt="Intellij IDEA" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="50" height="50">
