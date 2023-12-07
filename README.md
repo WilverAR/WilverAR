@@ -11,7 +11,6 @@
 <div align="center">
   <h3>💻 Languages and Tools</h3>
   <br>
-  <div style="display: inline-block;">
   <kbd>
     <br>
     <b>PROGRAMMING LANGUAGES</b>
@@ -41,7 +40,7 @@
   <kbd>
     <br>
     <b>FRONT-END</b>
-    <br>&nbsp;<br>&nbsp;
+    <br><br>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" title="Sass" alt="Sass" width="50" height="50">
@@ -81,7 +80,6 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="Github" alt="Github" width="50" height="50">
   </kbd>
-    </div>
 </div>
 
 <br>
