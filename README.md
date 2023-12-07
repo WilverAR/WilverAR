@@ -25,6 +25,8 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="50" height="50">
     </kbd>
+    &nbsp;
+    &nbsp;
     <kbd>
       <b>BACK-END</b>
       <br>
