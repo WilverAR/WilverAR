@@ -17,7 +17,7 @@
   <h3>💻 Languages and Tools</h3>
   <p style="display: inline-block;" align="center">
     <kbd>
-      <b><span style="color: green;">PROGRAMMING LANGUAGES</span></b>
+      <b><span style="font-size: 24px;">PROGRAMMING LANGUAGES</span></b>
       <br>
       <br>
       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
