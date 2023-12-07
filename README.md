@@ -17,13 +17,11 @@
 <div align="center">
   <h3>💻 Languages and Tools</h3>
   <p style="display: inline-block" align="center">
-      PROGRAMMING LANGUAGES<br>
     <kbd>
       PROGRAMMING LANGUAGES
       <br>
       <br>      
     </kbd>
-    </div>
     <kbd>
       <kbd>Back-end</kbd>
       <br>
