@@ -69,7 +69,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="50" height="50">
   </kbd>
   &nbsp;
-  <br>
+  <br><br>
   <kbd>
     <br>
     <b>TOOLS</b>
