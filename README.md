@@ -9,12 +9,13 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 </div>
 
+<br>
 <hr>
 
 <div align="center">
   <h3>💻 Languages and Tools</h3>
   <br>
-    <kbd>
+  <kbd>
       <b>PROGRAMMING LANGUAGES</b>
       <br><br>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="50" height="50">
@@ -81,6 +82,35 @@
 <br>
 <hr>
 <!-- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> -->
+
+<div align="center">
+  <h3>📚 I'm currently learning</h3>
+  <br>
+  <kbd>
+    <b>FRONT-END</b>
+    <br><br>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" title="AngularTS" alt="AngularTS" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" title="VueJS" alt="VueJS" width="50" height="50">
+  </kbd>
+  &nbsp;
+  <kbd>
+    <b>BACK-END</b>
+    <br><br>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" title="SpringBoot" alt="SpringBoot" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" title=".Net" alt=".Net" width="50" height="50">
+  </kbd>
+  &nbsp;
+  <kbd>
+    <b>MOBILE</b>
+    <br><br>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" title="Android Studio" alt="Android Studio" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="50" height="50">
+  </kbd>
+</div>
+
+<br>
+<hr>
+
 <div align="center">
   <h3>📚 I'm currently learning</h3>
   <br>
@@ -96,7 +126,6 @@
 
 <br>
 <hr>
-<br>
 
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> -->
 <div align="center">
@@ -112,7 +141,6 @@
 
 <br>
 <hr>
-<br>
 
 <div align="center">
   <h3>📫 Connect with me</h3>
