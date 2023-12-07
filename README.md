@@ -67,8 +67,8 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Dodcker" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" title="Azure" alt="Azure" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="50" height="50">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="50" height="50">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="Amazon Web Services" alt="Amazon Web Services" width="50" height="50">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="50" height="50">
     </kbd>
     <kbd>
       <b>TOOLS</b>
