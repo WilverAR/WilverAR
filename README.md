@@ -106,17 +106,17 @@
   &nbsp;
   <kbd>
     <br>
-    <b>BACK-END</b>
+    <b>MOBILE</b>
     <br><br>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" title="FastAPI" alt="FastAPI" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="50" height="50">
   </kbd>
   &nbsp;
   <kbd>
     <br>
-    <b>MOBILE</b>
+    <b>BACK-END</b>
     <br><br>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" title="FastAPI" alt="FastAPI" width="50" height="50">
   </kbd>
 </div>
 
