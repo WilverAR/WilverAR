@@ -40,7 +40,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" title="Dart" alt="Dart" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" title="Kotlin" alt="Kotlin" width="50" height="50">
   </kbd>
-  &nbsp;
+  <br><br>
   <kbd>
     <br>
     <b>FRONT-END</b>
