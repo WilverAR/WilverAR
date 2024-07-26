@@ -88,6 +88,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gherkin-Dark.svg" title="Gherkin" alt="Gherkin" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="GitBash" alt="GitBash" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" title="Hibernate" alt="Hibernate" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" title="GithubActions" alt="GithubActions" width="50" height="50">
   </kbd>
 </div>
 
@@ -97,13 +98,6 @@
 <div align="center">
   <h3>📚 I'm currently improving</h3>
   <br>
-  <kbd>
-    <br>
-    <b>CI/CD</b>
-    <br><br>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" title="GithubActions" alt="GithubActions" width="50" height="50">
-  </kbd>
-  &nbsp;
   <kbd>
     <br>
     <b>MOBILE FRAMEWORK</b>
