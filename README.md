@@ -87,6 +87,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" title="SeleniumIDE" alt="SeleniumIDE" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gherkin-Dark.svg" title="Gherkin" alt="Gherkin" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="GitBash" alt="GitBash" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" title="Hibernate" alt="Hibernate" width="50" height="50">
   </kbd>
 </div>
 
@@ -98,24 +99,29 @@
   <br>
   <kbd>
     <br>
-    <b>DEVELOPMENT TOOLS</b>
+    <b>CI/CD</b>
     <br><br>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" title="GithubActions" alt="GithubActions" width="50" height="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" title="Hibernate" alt="Hibernate" width="50" height="50">
   </kbd>
   &nbsp;
   <kbd>
     <br>
-    <b>MOBILE</b>
+    <b>MOBILE FRAMEWORK</b>
     <br><br>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="50" height="50">
   </kbd>
   &nbsp;
   <kbd>
     <br>
-    <b>BACK-END</b>
+    <b>CONTAINER ORCHESTRATION</b>
     <br><br>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50">
+  </kbd>
+  &nbsp;
+  <kbd>
+    <br>
+    <b>WEB API FRAMEWORK</b>
+    <br><br>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" title="FastAPI" alt="FastAPI" width="50" height="50">
   </kbd>
 </div>
